@@ -4,11 +4,10 @@
 #### An advertising company that owns many advertising screens which are spread around New York City subway stations.
 
 ## Questions/Needs
-#### The company needs to find subway stations in districts to display the appropriate advertisements based on median household income of that certain district.
+#### The company wants to find the five subway stations around Manhattan Island with the highest foot traffic in order to place advertisement screens in said stations.
 
 ## Data
-#### MTA turnstiles dataset during the year of 2019
-#### Median household income based on districts of the year 2019
+#### MTA turnstiles dataset for the year of 2021 up to October 10th.
 
 ## Tools
 #### Technologies: Python, Jupyter Notebooks, SQL.
