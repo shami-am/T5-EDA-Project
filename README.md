@@ -1,4 +1,4 @@
-## EDA Project Proposal
+## MTA Traffic Analysis for Stations in Manhattan - Project Proposal
 
 ## Background
 #### The Children's Scholarship Fund is a non profit organization based in New York City. It aims to maximize educational opportunity for all children by offering tuition assistance.
